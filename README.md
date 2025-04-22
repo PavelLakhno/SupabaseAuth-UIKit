@@ -22,6 +22,9 @@
    - Project API Key
 
 ## 📸 Скриншоты
-     ![Снимок экрана 2025-04-22 в 18 33 07](https://github.com/user-attachments/assets/7f5b275c-d44e-4deb-86ee-1f50032ddb18)
-     ![Снимок экрана 2025-04-22 в 18 33 22](https://github.com/user-attachments/assets/53443dee-362a-4576-ab92-26416728a447)
-     ![Снимок экрана 2025-04-22 в 18 34 20](https://github.com/user-attachments/assets/ccf6bc06-2eda-4d14-b5db-8b39c89741a5)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/66f75b86-3f7d-4098-848b-917b1a1f643a" width="250" alt="Экран авторизации">
+   <img src="https://github.com/user-attachments/assets/450f38cf-f299-41d7-8ed9-38465891985e" width="250" alt="Экран авторизации с OTP">
+  <img src="https://github.com/user-attachments/assets/ba73f115-0b38-4bf8-a581-878fd913d0e7" width="250" alt="Экран успешного входа">
+</p>
+
