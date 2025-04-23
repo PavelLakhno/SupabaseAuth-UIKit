@@ -20,6 +20,9 @@
    Project Settings -> API Settings
    - Project URL
    - Project API Key
+     
+В x-code проекте настроить:
+   - Project → Targets → Info → URL types → URL Schemes → `youApp` 
 
 ## 📸 Скриншоты
 <p align="center">
